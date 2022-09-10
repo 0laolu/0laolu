@@ -9,7 +9,7 @@
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) <br /><br />
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-777777?&style=for-the-badge&logo=git&logoColor=white) <br /><br />
 
 ## Socials
 <a href="https://twitter.com/olaolu_dev">
@@ -17,8 +17,9 @@
 </a>
 <a href="mailto:abdullateefolaolu@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
-</a> <br /><br /><br />
+</a> <br /><br />
 
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0laolu&layout=compact&theme=dark)](https://github.com/0laolu/github-readme-stats)
 
 [![0laolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0laolu&show_icons=true&theme=tokyonight)](https://github.com/0laolu/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=0laolu&theme=tokyonight)](https://git.io/streak-stats)
