@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Olaoluwa
 - 💻 I'm a Frontend Developer
 - 🔭 I’m currently working on a [Todo App](https://github.com/0laolu/Todo-App)
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Open-source Projects and Frontend Projects
+- 🌱 I’m currently learning **JavaScript** and **React.js**
+- 👯 I’m looking to collaborate on **Open-source Projects** on Frontend Web Development
 - 📫 You can reach me via my socials below 👇
 - 🙂 I'm open to internship roles <br /><br />
 
@@ -21,10 +21,11 @@
 </a> <br /><br />
 
 ## GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0laolu&layout=compact&theme=dark)](https://github.com/0laolu/github-readme-stats)
 
-[![0laolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0laolu&show_icons=true&theme=tokyonight)](https://github.com/0laolu/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=0laolu&theme=tokyonight)](https://git.io/streak-stats)
-
+| [![0laolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0laolu&show_icons=true&theme=tokyonight)](https://github.com/0laolu/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=0laolu&theme=tokyonight)](https://git.io/streak-stats) |
+| :--- | ---: |
 
 
 
