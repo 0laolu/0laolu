@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Olaoluwa
 - 💻 I'm a Frontend Developer
-- 🔭 I’m currently working on a [Todo App](https://github.com/0laolu/Todo-App)
 - 🌱 I’m currently learning **JavaScript** and **React.js**
 - 👯 I’m looking to collaborate on **Open-source Projects** on Frontend Web Development
 - 📫 You can reach me via my socials below 👇
@@ -30,7 +29,7 @@
 
 
 <!--
-
+- 🔭 I’m currently working on a [Todo App](https://github.com/0laolu/Todo-App)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
